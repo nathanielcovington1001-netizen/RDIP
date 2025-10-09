@@ -1,1 +1,2 @@
-Nathans super cool rock project
+Nathans super cool rock project, greetings earthlings
+
