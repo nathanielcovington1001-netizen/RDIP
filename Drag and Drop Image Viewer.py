@@ -78,7 +78,7 @@ def on_drop(event, label):
 # Create the main window
 root = TkinterDnD.Tk()
 root.title("Drag and Drop Image Viewer")
-root.state('zoomed')
+root.attributes('-zoomed', True)
 root.configure(bg='#222222')  # Darker background
 
 # Main container frame (fills the window)
